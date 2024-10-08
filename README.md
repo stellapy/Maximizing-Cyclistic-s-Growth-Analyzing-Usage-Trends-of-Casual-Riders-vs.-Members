@@ -1,0 +1,2 @@
+# Maximizing-Cyclistic-s-Growth-Analyzing-Usage-Trends-of-Casual-Riders-vs.-Members
+ Analyzing Cyclistic bike-share data to identify any difference between usage patterns of casual riders and annual members. The insights gotten from the analysis helped the Cyclistic Bike-share' marketing team design efficient marketing strategies to convert casual riders to annual members by increasing the revenue of the company in the long run.
